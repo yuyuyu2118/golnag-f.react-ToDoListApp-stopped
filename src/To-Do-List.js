@@ -22,7 +22,7 @@ class ToDoList extends Component{
             <div>
                 <div className="row">
                     <Header className="header" as="h2" color="yellow">
-                        ToDo List
+                        To Do List
                     </Header>
                 </div>
                 <div className="row">
